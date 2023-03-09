@@ -1,0 +1,21 @@
+{
+  "api_tran_id": "AA12349BHZ1324K82AL3",
+  "api_tran_dtm": 1603101019,
+  "rsp_code": "A1010",
+  "rsp_message": "지정된 날짜가 아닙니다.",
+  "bank_tran_id": "12345678901234567890",
+  "bank_tran_date": 20160310,
+  "bank_code_tran": "098",
+  "bank_rsp_code": "000",
+  "bank_rsp_message": "20230202111027로 메시지가 생성되었습니다.",
+  "bank_name": "오픈은행",
+  "savings_bank_name": "열린예금은행",
+  "fintech_use_num": "123456789012345678901234",
+  "balance_amt": 1000000,
+  "available_amt": 1000000,
+  "account_type": "1",
+  "product_name": "하고싶은대로통장",
+  "account_issue_date": 20211026,
+  "maturity_date": 20210530,
+  "last_tran_date": 20210530
+}

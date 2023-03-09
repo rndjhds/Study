@@ -1,0 +1,28 @@
+{
+  "api_tran_id": "6ggh245b-t89a-12fe-3a5a",
+  "api_tran_dtm": "202209201",
+  "rsp_code": "A0000",
+  "rsp_message": "",
+  "bank_tran_id": "F3698741265AB358A62A",
+  "bank_tran_date": "20220920",
+  "bank_code_tran": "097",
+  "bank_rsp_code": "000",
+  "bank_rsp_message": "",
+  "bank_name": "닫힌은행",
+  "fintech_use_num": "74123698214569",
+  "balance_amt": "1012254",
+  "page_record_cnt ": "30",
+  "next_page_yn": "Y",
+  "res_list": [
+    {
+      "tran_date": "20200920",
+      "tran_time": "113012",
+      "inout_type": "입금",
+      "tran_type": "현금",
+      "printed_content": "통장인자내용",
+      "tran_amt": "560019",
+      "after_balance_amt": "-10000",
+      "branch_name": "역삼점"
+    }
+  ]
+}

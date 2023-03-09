@@ -1,0 +1,32 @@
+{
+  "api_tran_id": "2GGd996a-T12F-571d-a6a5",
+  "api_tran_dtm": "20190910",
+  "rsp_code": "A0000",
+  "rsp_message": "",
+  "wd_bank_code_std": "097",
+  "wd_bank_code_sub": "1230001",
+  "wd_bank_name": "열린은행",
+  "wd_account_num_masked": "000-1230000-***",
+  "wd_print_content": "출금계좌내역",
+  "wd_account_holder_name": "이산",
+  "res_cnt": "1",
+  "res_list": [
+    {
+      "tran_no": "1",
+      "bank_tran_id": "G98765245U4BC34587Z",
+      "bank_tran_date": "20191020",
+      "bank_code_tran": "097",
+      "bank_rsp_code": "000",
+      "bank_rsp_message": "",
+      "bank_code_std": "097",
+      "bank_code_sub": "1230001",
+      "bank_name": "열린은행",
+      "account_num": "2212341111789",
+      "account_num_masked": "000-1230000-***",
+      "print_content": "입금계좌내역",
+      "account_holder_name": "이재인",
+      "tran_amt": "100000",
+      "cms_num": "96587432154"
+    }
+  ]
+}

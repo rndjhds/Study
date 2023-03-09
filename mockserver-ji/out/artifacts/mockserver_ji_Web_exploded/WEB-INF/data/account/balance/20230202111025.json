@@ -1,0 +1,21 @@
+{
+  "api_tran_id": "CC55234AGZ1324K82TQ8",
+  "api_tran_dtm": 1503321120,
+  "rsp_code": "A0000",
+  "rsp_message": "",
+  "bank_tran_id": "F123456789U4BC34239Z",
+  "bank_tran_date": 20190910,
+  "bank_code_tran": "097",
+  "bank_rsp_code": "000",
+  "bank_rsp_message": "",
+  "bank_name": "닫힌은행",
+  "savings_bank_name": "닫힌예금은행",
+  "fintech_use_num": "456789455678396528901234",
+  "balance_amt": 1000012,
+  "available_amt": 1000012,
+  "account_type": "1",
+  "product_name": "알뜰살뜰적금",
+  "account_issue_date": 20190110,
+  "maturity_date": 20200109,
+  "last_tran_date": 20191010
+}

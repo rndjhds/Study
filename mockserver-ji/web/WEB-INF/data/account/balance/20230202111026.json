@@ -1,0 +1,21 @@
+{
+  "api_tran_id": "BB12349BHZ4896U89GK8",
+  "api_tran_dtm": 1503456125,
+  "rsp_code": "A1111",
+  "rsp_message": "지정된 날짜가 아닙니다",
+  "bank_tran_id": "G234586789U4BC34239Z",
+  "bank_tran_date": 20181002,
+  "bank_code_tran": "089",
+  "bank_rsp_code": "000",
+  "bank_rsp_message": "",
+  "bank_name": "열린은행",
+  "savings_bank_name": "예금은행",
+  "fintech_use_num": "987696308520234556127894",
+  "balance_amt": 1000020,
+  "available_amt": 1000020,
+  "account_type": "2",
+  "product_name": "알뜰살뜰예금",
+  "account_issue_date": 20230115,
+  "maturity_date": 20211009,
+  "last_tran_date": 20200102
+}
